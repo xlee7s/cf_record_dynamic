@@ -4,7 +4,7 @@ CF_EMAIL = "xxxxxxx@gmail.com"
 CF_GLOBAL_API_KEY = "xxxxxxxxxxxxxxxxxxx"
 
 # 解析所在的主域名，以及每天要创建的记录列表。
-ZONE_NAME = "cjpc.de5.net"
+ZONE_NAME = "xxxx.de5.net"
 # 支持 A 与 CNAME；每条记录可单独设置中国时间 start_time / end_time。
 # 相同时间的记录填写相同的时间即可。每条记录独立保存 record_id，结束时只删除本脚本创建的 ID。
 RECORDS = [
